@@ -1,4 +1,4 @@
-package temporary;
+package models.products;
 
 public class Clothes extends Product{
 
